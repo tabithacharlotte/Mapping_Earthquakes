@@ -11,7 +11,7 @@ I used the JavaScript and the D3.js library to retrieve the coordinates and magn
 
 ## Output
 The final output is located in the `Earthquake_Challenge` folder, which contains an `index.html` file, a `static` folder with a `style.css` file and the `challenge_logic.js` javascript code to run the map from a Python Server.
-The other folders in this repository contain practice drafts and show some of my practice with the materials.
+The other folders in this repository contain practice drafts and show some of my learning process.
 
 The map I created has multiple overlays, including options that allow visitors to view the location of tectonic plates, major earthquakes and other relevant data.
 
